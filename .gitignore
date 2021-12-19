@@ -1,3 +1,4 @@
 .replit
 .env
 build-ocr.sh
+myvenv
