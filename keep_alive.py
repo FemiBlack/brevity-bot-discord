@@ -7,9 +7,12 @@ app = Flask('')
 def home():
     return "Hello. I am alive!"
 
-def run():
-  app.run()
+# def run():
+#   app.run()
 
-def keep_alive():
-    t = Thread(target=run)
-    t.start()
+# def keep_alive():
+#     t = Thread(target=run)
+#     t.start()
+    
+if __name__ == "__main__":
+    app.run(host="0.0.0.0")
