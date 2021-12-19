@@ -1,4 +1,5 @@
-from keep_alive import keep_alive
+# from keep_alive import keep_alive
+from keep_alive import app
 import os
 import asyncio
 import random
@@ -71,5 +72,7 @@ intents = discord.Intents.default()
 intents.members = True
 
 client = MyClient(intents=intents)
-keep_alive()
-client.run(TOKEN)
+# keep_alive()
+if __name__ == "__main__":
+    app.run()
+    client.run(TOKEN)
