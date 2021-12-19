@@ -47,3 +47,4 @@ ujson==1.35
 urllib3==1.26.6
 virtualenv==20.7.2
 Werkzeug==2.0.1
+gunicorn
