@@ -20,7 +20,7 @@ Hello there! Welcome to Brevity, a Discord bot - currently in development.
 
 **Proposed Features**
 - Slash Commands
-- ...
+- Music Streams
 
 **Implemented Features**
 - Above listed commands
