@@ -17,10 +17,10 @@ Hello there! Welcome to Brevity, a Discord bot - currently in development.
 `!ocr`<br/>
 > An Optical Character Recognition system, it returns text captured from an image. The command is called by replying to an image in the current chat session with `!ocr`
 
-** Proposed Features **
+**Proposed Features**
 - Slash Commands
 - ...
 
-** Implemented Features **
+**Implemented Features**
 - Above listed commands
 - Personalized greeting on entering guild
