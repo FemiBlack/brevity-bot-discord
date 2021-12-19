@@ -1,6 +1,7 @@
 # Brevity Bot
 [![Header](https://raw.githubusercontent.com/FemiBlack/brevity-bot-discord/main/images/banner.png "Header")](https://femiblack.github.io/)
 
+
 ## A Brief Inroduction
 Hello there! Welcome to Brevity, a Discord bot - currently in development.
 
@@ -24,3 +25,5 @@ Hello there! Welcome to Brevity, a Discord bot - currently in development.
 **Implemented Features**
 - Above listed commands
 - Personalized greeting on entering guild
+
+Credits: <a href="#">femiblack</a>
