@@ -71,4 +71,5 @@ intents = discord.Intents.default()
 intents.members = True
 
 client = MyClient(intents=intents)
+keep_alive()
 client.run(TOKEN)
